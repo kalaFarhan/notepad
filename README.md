@@ -18,17 +18,17 @@
 <h3>📷 Pictures</h3>
 
 <h5>Home Page</h5>
-<img alt="Home Page" src="C:\foto\Screenshot 2025-11-27 104712.png"/>
+<img alt="Home Page" src="foto\Screenshot 2025-11-27 104712.png"/>
 
 <h5>Create Page</h5>
-<img alt="Create Page" src="C:\foto\Screenshot 2025-11-27 105113.png"/>
+<img alt="Create Page" src="foto\Screenshot 2025-11-27 105113.png"/>
 
 <h5>Edit Page</h5>
-<img alt="Edit Page" src="C:\foto\Screenshot 2025-11-27 104737.png"/>
-<img alt="Edit Done" src="C:\foto\Screenshot 2025-11-27 104753.png"/>
+<img alt="Edit Page" src="foto\Screenshot 2025-11-27 104737.png"/>
+<img alt="Edit Done" src="foto\Screenshot 2025-11-27 104753.png"/>
 
 <h5>Delete Confirmation</h5>
-<img alt="Delete" src="C:\foto\Screenshots\Screenshot 2025-11-27 104820.png"/>
+<img alt="Delete" src="foto\Screenshot 2025-11-27 104820.png"/>
 <img  />
 
 <h3>📥 Installation</h3>
